@@ -1,0 +1,20 @@
+html{
+    background-color: #0000;
+}
+
+.cars{
+    background-color: red;
+    width: 50vw;
+}
+
+.delete-btn{
+    background-color: lightskyblue;
+}
+
+.delete-btn:hover{
+    background-color: blue;
+}
+
+.newCar{
+    width: 50vw;
+}
